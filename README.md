@@ -2,7 +2,7 @@
 
 I am Ovidiu, a Senior Software Engineer with 14 years of experience.
 
-- 💻 My current stack : React, React-Native, Next.js, Typescript
+- 💻 My current stack : React, React-Native, Next.js, Typescript, GraphQL
 - 📱 I have over 10+ years of mobile development experience usign Android, iOS, React-Native
 - 🔋 I started as a Java backend engineer for my first 3 years
 - 😎 and I just like to learn new cool stuff, and I do it fast
